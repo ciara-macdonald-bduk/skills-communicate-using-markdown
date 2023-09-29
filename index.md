@@ -5,3 +5,6 @@ if yaktocat==pretty
   print(str(what a pretty yaktocat))
 else print(str(what an ugly yaktocat)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
